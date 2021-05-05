@@ -30,14 +30,14 @@ $(document).ready(function(){
     });
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Hello!", "Its nice to meet you", "This is Haki", "A place of juctice.", "This is for your perusal.", "Enjoy."],
+        strings: ["We Make The Law Known"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Legal Services"],
-        typeSpeed: 1000,
+        strings: ["Knownafrique Legal Services"],
+        typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
